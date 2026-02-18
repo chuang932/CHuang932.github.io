@@ -7,10 +7,10 @@
 - <strong>Chang Huang</strong>, Zhexin Zhou, Jun Ma, Jiatong Shen, Peixuan Xiong, Huayong Yang, Kaishun Wu. DRM-Net: Explicit Residual Modelling with Subaquatic Multi-Scale Context Fusion for Underwater Image Enhancement. <strong>Accepted by AAAI2026</strong>
 
 
-- Ziyang Liu, Siyuan He, Feng Liang, <strong>Chang Huang</strong>, Shuxin Zhong, Kaishun Wu. mmJEPA-ECG: Cross-Posture Robust Contactless Electrocardiogram Monitoring via Millimeter Wave Radar Sensing.<strong>Accepted by AAAI2026</strong>
+- Ziyang Liu, Siyuan He, Feng Liang, <strong>Chang Huang</strong>, Shuxin Zhong, Kaishun Wu. mmJEPA-ECG: Cross-Posture Robust Contactless Electrocardiogram Monitoring via Millimeter Wave Radar Sensing. <strong>Accepted by AAAI2026</strong>
 
 
-- <strong>Chang Huang</strong>, Jiatong Shen, Jingyao Liu, Kaixin Chen, Jun Ma, Huayong Yang, Kaishun Wu. DGF-Net: Underwater Image Enhancement via Depth Priors and Frequency-Domain Modeling.<strong>Accepted by ICASSP2026</strong>
+- <strong>Chang Huang</strong>, Jiatong Shen, Jingyao Liu, Kaixin Chen, Jun Ma, Huayong Yang, Kaishun Wu. DGF-Net: Underwater Image Enhancement via Depth Priors and Frequency-Domain Modeling. <strong>Accepted by ICASSP2026</strong>
 
 - <strong>Chang Huang</strong>, Shuxin Zhong, Jiatong Shen, Zhexin Zhou, Jiantong Chen, Jun Ma, Huayong Yang, Kaishun Wu. DyLUT-UIE: A Dynamic Lookup Table Paradigm for Efficient Underwater Image Enhancement. <strong>Accepted by ICASSP2026</strong>
  

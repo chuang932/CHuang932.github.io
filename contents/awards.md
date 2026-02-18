@@ -10,3 +10,16 @@
 - First-Prize Corporate Scholarship (CUMT), 2020.
 
 - First-Prize Undergraduate Academic Scholarship (CUMT), 2019. -->
+
+
+-  National Level, College Students’ Innovative Entrepreneurial Training Plan Program, 2021
+
+- Second Prize, National College Smart Car Competition, 2021
+
+- Third Prize Second Prize, Intel Embedded System Design Contest, 2020.
+
+- Third Prize *2， Synopsys ARC Cup Cross-strait Undergraduate Electronic Design Contest, 2020. -->
+
+
+
+

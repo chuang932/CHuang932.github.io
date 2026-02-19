@@ -12,7 +12,9 @@
 - First-Prize Undergraduate Academic Scholarship (CUMT), 2019. -->
 
 
--  National Level, College Students’ Innovative Entrepreneurial Training Plan Program, 2021
+- Winner (1st Place), Sustainabel Design Thinking Program (HKUST), 2023
+
+- National Level, College Students’ Innovative Entrepreneurial Training Plan Program, 2021
 
 - Second Prize, National College Smart Car Competition, 2021
 

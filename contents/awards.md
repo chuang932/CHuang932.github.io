@@ -20,7 +20,7 @@
 
 - Third Prize Second Prize, Intel Embedded System Design Contest, 2020.
 
-- Third Prize *2， Synopsys ARC Cup Cross-strait Undergraduate Electronic Design Contest, 2020. -->
+- Third Prize *2, Synopsys ARC Cup Cross-strait Undergraduate Electronic Design Contest, 2020. -->
 
 
 

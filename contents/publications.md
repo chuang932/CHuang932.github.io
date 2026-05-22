@@ -4,20 +4,19 @@
 
 #### Conferences
 
-- <strong>Chang Huang</strong>, Zhexin Zhou, Jun Ma, Jiatong Shen, Peixuan Xiong, Huayong Yang, Kaishun Wu. DRM-Net: Explicit Residual Modelling with Subaquatic Multi-Scale Context Fusion for Underwater Image Enhancement. <strong>Accepted by AAAI2026</strong>
+- Kieren Yu, Ziyang Liu, <strong>Chang Huang</strong>, Kaishun Wu. PATCHCODE: Discrete Latent Predictive Learning for EEG Foundation Model. <strong>Accepted by ICML2026</strong>
 
+- Ziyang Liu, Ruiqiang Xiao, <strong>Chang Huang</strong>, Kieren Yu, Siyuan He, Kaishun Wu. Cardio-mmFlow: A Gaussian-Prior-Free Physics-Informed Flow Matching Framework for Electrocardiogram to mmWave Radar Synthesis. <strong>Accepted by ICML2026</strong>
 
-- Ziyang Liu, Siyuan He, Feng Liang, <strong>Chang Huang</strong>, Shuxin Zhong, Kaishun Wu. mmJEPA-ECG: Cross-Posture Robust Contactless Electrocardiogram Monitoring via Millimeter Wave Radar Sensing. <strong>Accepted by AAAI2026</strong>
+- <strong>Chang Huang</strong>, Zhexin Zhou, Jun Ma, Jiatong Shen, Peixuan Xiong, Huayong Yang, Kaishun Wu. DRM-Net: Explicit Residual Modelling with Subaquatic Multi-Scale Context Fusion for Underwater Image Enhancement. <strong>AAAI2026</strong> [[Paper]](https://doi.org/10.1609/aaai.v40i45.41200)
 
+- Ziyang Liu, Siyuan He, Feng Liang, <strong>Chang Huang</strong>, Shuxin Zhong, Kaishun Wu. mmJEPA-ECG: Cross-Posture Robust Contactless Electrocardiogram Monitoring via Millimeter Wave Radar Sensing. <strong>AAAI2026</strong> [[Paper]](https://doi.org/10.1609/aaai.v40i45.41242)
 
+- <strong>Chang Huang</strong>, Jiatong Shen, Jingyao Liu, Kaixin Chen, Jun Ma, Huayong Yang, Kaishun Wu. DGF-Net: Underwater Image Enhancement via Depth Priors and Frequency-Domain Modeling. <strong>ICASSP2026</strong>. [[Paper]](https://ieeexplore.ieee.org/abstract/document/11461879)
 
-- <strong>Chang Huang</strong>, Jiatong Shen, Jingyao Liu, Kaixin Chen, Jun Ma, Huayong Yang, Kaishun Wu. DGF-Net: Underwater Image Enhancement via Depth Priors and Frequency-Domain Modeling. <strong>Accepted by ICASSP2026</strong>
-
-- <strong>Chang Huang</strong>, Shuxin Zhong, Jiatong Shen, Zhexin Zhou, Jiantong Chen, Jun Ma, Huayong Yang, Kaishun Wu. DyLUT-UIE: A Dynamic Lookup Table Paradigm for Efficient Underwater Image Enhancement. <strong>Accepted by ICASSP2026</strong>
- 
+- <strong>Chang Huang</strong>, Shuxin Zhong, Jiatong Shen, Zhexin Zhou, Jiantong Chen, Jun Ma, Huayong Yang, Kaishun Wu. DyLUT-UIE: A Dynamic Lookup Table Paradigm for Efficient Underwater Image Enhancement. <strong>ICASSP2026</strong>. [[Paper]](https://ieeexplore.ieee.org/abstract/document/11464974)
  
 - <strong>Chang Huang</strong>, Jiahang Cao, Jun Ma, Kieren Yu, Cong Li, Huayong Yang, Kaishun Wu (2025). DACA-Net: A Degradation-Aware Conditional Diffusion Network for Underwater Image Enhancement. <strong>ACM MM(2025)</strong>. [[Paper]](https://doi.org/10.1145/3746027.3755694)
-
 
 - Xin Chen, Houjin Chen, Yahui Peng, Liu Liu, <strong>Chang Huang</strong>. A freehand 3D ultrasound reconstruction method based on deep learning. <strong>Electronics(2023)</strong>.  [[Paper]](https://doi.org/10.3390/electronics12071527)
 

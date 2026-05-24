@@ -4,6 +4,8 @@
 
 #### Conferences
 
+- Kaixin Chen, Usman Saleh Toro, Jinyu Lin, <strong>Chang Huang</strong>, Junfan Xiang, Lu Wang, Huachen Cui, Lei Zhu, Kaishun Wu. BladderSense: A Wearable Ultrasound System for Continuous Bladder Monitoring in Real-World Use. <strong>Accepted by MobiSys2026</strong>
+
 - Kieren Yu, Ziyang Liu, <strong>Chang Huang</strong>, Kaishun Wu. PATCHCODE: Discrete Latent Predictive Learning for EEG Foundation Model. <strong>Accepted by ICML2026</strong>
 
 - Ziyang Liu, Ruiqiang Xiao, <strong>Chang Huang</strong>, Kieren Yu, Siyuan He, Kaishun Wu. Cardio-mmFlow: A Gaussian-Prior-Free Physics-Informed Flow Matching Framework for Electrocardiogram to mmWave Radar Synthesis. <strong>Accepted by ICML2026</strong>

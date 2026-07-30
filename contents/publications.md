@@ -4,12 +4,15 @@
 
 #### Conferences
 
+- <strong>Chang Huang</strong>, Ziyang Liu, Hao Tang, Yizhou Li, Minhao Cui, Guobiao Hu, Kaishun Wu. From Soil, For Soil: Self-Powered Moisture Sensing via Natural Electrical Transients. <strong> Accepted by The 32nd Annual International Conference on
+Mobile Computing and Networking (MobiCom-2026)</strong>
+
 - Kaixin Chen, Usman Saleh Toro, Jinyu Lin, <strong>Chang Huang</strong>, Junfan Xiang, Lu Wang, Huachen Cui, Lei Zhu, Kaishun Wu. BladderSense: A Wearable Ultrasound System for Continuous Bladder Monitoring in Real-World Use. <strong>The 24th ACM International Conference on Mobile Systems,
 Applications, and Services (MobiSys-2026)</strong> [[Paper]](https://doi.org/10.1145/3745756.380918)
 
-- Kieren Yu, Ziyang Liu, <strong>Chang Huang</strong>, Kaishun Wu. PATCHCODE: Discrete Latent Predictive Learning for EEG Foundation Model. <strong>Accepted by Forty-third International Conference on Machine Learning (ICML-2026)</strong>
+- Kieren Yu, Ziyang Liu, <strong>Chang Huang</strong>, Kaishun Wu. PATCHCODE: Discrete Latent Predictive Learning for EEG Foundation Model. <strong>Forty-third International Conference on Machine Learning (ICML-2026)</strong> [[Paper]](https://openreview.net/pdf?id=NWcZ5vualM)
 
-- Ziyang Liu, Ruiqiang Xiao, <strong>Chang Huang</strong>, Kieren Yu, Siyuan He, Kaishun Wu. Cardio-mmFlow: A Gaussian-Prior-Free Physics-Informed Flow Matching Framework for Electrocardiogram to mmWave Radar Synthesis. <strong>Accepted by Forty-third International Conference on Machine Learning (ICML-2026)</strong>
+- Ziyang Liu, Ruiqiang Xiao, <strong>Chang Huang</strong>, Kieren Yu, Siyuan He, Kaishun Wu. Cardio-mmFlow: A Gaussian-Prior-Free Physics-Informed Flow Matching Framework for Electrocardiogram to mmWave Radar Synthesis. <strong>Forty-third International Conference on Machine Learning (ICML-2026)</strong>  [[Paper]](https://openreview.net/pdf?id=e43JwTIb2V)
 
 - <strong>Chang Huang</strong>, Zhexin Zhou, Jun Ma, Jiatong Shen, Peixuan Xiong, Huayong Yang, Kaishun Wu. DRM-Net: Explicit Residual Modelling with Subaquatic Multi-Scale Context Fusion for Underwater Image Enhancement. <strong>The Fortieth AAAI Conference on Artificial Intelligence (AAAI-26)</strong> [[Paper]](https://doi.org/10.1609/aaai.v40i45.41200)
 

@@ -27,8 +27,9 @@ Applications, and Services (MobiSys-2026)</strong> [[Paper]](https://doi.org/10.
 - Xin Chen, Houjin Chen, Yahui Peng, Liu Liu, <strong>Chang Huang</strong>. A freehand 3D ultrasound reconstruction method based on deep learning. <strong>Electronics(2023)</strong>.  [[Paper]](https://doi.org/10.3390/electronics12071527)
 
 
+#### Journals
 
-
+- Kaixin Chen, Yongzhi Huang, Usman Saleh Toro, <strong>Chang Huang</strong>, Yueling Che, Kaishun Wu, Lu Wang. Collar-VLM: A VLM-Powered Collar Headset Supporting Daily Assistance for the Visually Impaired. <strong> IEEE Transactions on Mobile Computing (TMC-2026)</strong> [[Paper]](https://ieeexplore.ieee.org/document/11732299)
 
 <!-- - X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
 

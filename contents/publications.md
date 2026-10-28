@@ -4,8 +4,8 @@
 
 #### Conferences
 
-- <strong>Chang Huang</strong>, Ziyang Liu, Hao Tang, Yizhou Li, Minhao Cui, Guobiao Hu, Kaishun Wu. From Soil, For Soil: Self-Powered Moisture Sensing via Natural Electrical Transients. <strong> Accepted by The 32nd Annual International Conference on
-Mobile Computing and Networking (MobiCom-2026)</strong>
+- <strong>Chang Huang</strong>, Ziyang Liu, Hao Tang, Yizhou Li, Minhao Cui, Guobiao Hu, Kaishun Wu. From Soil, For Soil: Self-Powered Moisture Sensing via Natural Electrical Transients. <strong> The 32nd Annual International Conference on
+Mobile Computing and Networking (MobiCom-2026)</strong> [[Paper]](https://doi.org/10.1145/3795866.3844485)
 
 - Kaixin Chen, Usman Saleh Toro, Jinyu Lin, <strong>Chang Huang</strong>, Junfan Xiang, Lu Wang, Huachen Cui, Lei Zhu, Kaishun Wu. BladderSense: A Wearable Ultrasound System for Continuous Bladder Monitoring in Real-World Use. <strong>The 24th ACM International Conference on Mobile Systems,
 Applications, and Services (MobiSys-2026)</strong> [[Paper]](https://doi.org/10.1145/3745756.380918)

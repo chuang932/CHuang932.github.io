@@ -31,6 +31,10 @@ Applications, and Services (MobiSys-2026)</strong> [[Paper]](https://doi.org/10.
 
 - Kaixin Chen, Yongzhi Huang, Usman Saleh Toro, <strong>Chang Huang</strong>, Yueling Che, Kaishun Wu, Lu Wang. Collar-VLM: A VLM-Powered Collar Headset Supporting Daily Assistance for the Visually Impaired. <strong> IEEE Transactions on Mobile Computing (TMC-2026)</strong> [[Paper]](https://ieeexplore.ieee.org/document/11732299)
 
+
+
+- <strong>Chang Huang</strong>, Jiantong Chen, Zhexin Zhou, Zhuomin Lin, Kaixin Chen, Huayong Yang, Kaishun Wu. Experiences of Developing an Integrated Fiber-Optic DAS Platform for Underwater Acoustic-Seismic Joint Monitoring. Accepted by <strong> CCF Transactions on Pervasive Computing and Interaction</strong>
+
 <!-- - X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
 
 - <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)

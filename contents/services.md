@@ -2,13 +2,13 @@
 
 - ICME 2025.
 
-- ICASSP 2025.
+- ICASSP 2025/2026.
 
-- ICASSP 2026.
-
-- AAAI 2026.
+- AAAI 2026/2027.
 
 - ICML 2026.
+
+- IEEE Internet of Things Journal
 
 
 #### Teaching Assistant
